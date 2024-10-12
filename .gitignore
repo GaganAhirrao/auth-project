@@ -26,3 +26,4 @@ temp/
 
 # Angular specific
 .angular/cache
+.env 
